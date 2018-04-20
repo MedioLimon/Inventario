@@ -1,0 +1,15 @@
+E:\UPP\8vo Cuatrimestre\Ingeniería En Software - Jazmín\Proyecto\Inventario C\Inventario\Inventario\bin\Debug\Inventario.exe.config
+E:\UPP\8vo Cuatrimestre\Ingeniería En Software - Jazmín\Proyecto\Inventario C\Inventario\Inventario\bin\Debug\Inventario.exe
+E:\UPP\8vo Cuatrimestre\Ingeniería En Software - Jazmín\Proyecto\Inventario C\Inventario\Inventario\bin\Debug\Inventario.pdb
+E:\UPP\8vo Cuatrimestre\Ingeniería En Software - Jazmín\Proyecto\Inventario C\Inventario\Inventario\bin\Debug\MySql.Data.dll
+E:\UPP\8vo Cuatrimestre\Ingeniería En Software - Jazmín\Proyecto\Inventario C\Inventario\Inventario\bin\Debug\MySql.Data.xml
+E:\UPP\8vo Cuatrimestre\Ingeniería En Software - Jazmín\Proyecto\Inventario C\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+E:\UPP\8vo Cuatrimestre\Ingeniería En Software - Jazmín\Proyecto\Inventario C\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+E:\UPP\8vo Cuatrimestre\Ingeniería En Software - Jazmín\Proyecto\Inventario C\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+E:\UPP\8vo Cuatrimestre\Ingeniería En Software - Jazmín\Proyecto\Inventario C\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+E:\UPP\8vo Cuatrimestre\Ingeniería En Software - Jazmín\Proyecto\Inventario C\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+E:\UPP\8vo Cuatrimestre\Ingeniería En Software - Jazmín\Proyecto\Inventario C\Inventario\Inventario\obj\Debug\Inventario.exe
+E:\UPP\8vo Cuatrimestre\Ingeniería En Software - Jazmín\Proyecto\Inventario C\Inventario\Inventario\obj\Debug\Inventario.pdb
+E:\UPP\8vo Cuatrimestre\Ingeniería En Software - Jazmín\Proyecto\Inventario C\Inventario\Inventario\obj\Debug\Inventario.Vistas.Formulario.resources
+E:\UPP\8vo Cuatrimestre\Ingeniería En Software - Jazmín\Proyecto\Inventario C\Inventario\Inventario\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\UPP\8vo Cuatrimestre\Ingeniería En Software - Jazmín\Proyecto\Inventario C\Inventario\Inventario\obj\Debug\Inventario.Vistas.Form1.resources
